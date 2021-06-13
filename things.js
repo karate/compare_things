@@ -7,6 +7,7 @@ THINGS = [
   {size: '0.085',       name_singular: 'apple',              name_plural: 'apples'},
   {size: '0.12',        name_singular: 'optical disk (CD)',  name_plural: 'optical disks (CDs)'},
   {size: '0.22',        name_singular: 'soccer ball',        name_plural: 'soccer balls'},
+  {size: '0.3',         name_singular: 'LP vinyl record',    name_plural: 'LP vinyl records'},
   {size: '0.5',         name_singular: 'rabbit',             name_plural: 'rabbits'},
   {size: '1.7',         name_singular: 'human',              name_plural: 'humans'},
   {size: '3.0',         name_singular: 'elephant',           name_plural: 'elephants'},
