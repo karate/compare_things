@@ -1,0 +1,36 @@
+html {
+  font-size: 22px;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: palegoldenrod;
+}
+
+#container {
+  max-width: 500px;
+  margin: 2em auto;
+  padding: 1.5em 1em;
+  box-shadow: 0 0 3px 3px #b3b3b3;
+  border-radius: 20px;
+  background-color: lightskyblue;
+}
+
+label, input {
+  display: block;
+  margin: 0 auto 2rem;
+  text-align: center;
+}
+
+input {
+  font-size: 1.5em;
+  padding: 10px;
+  border-radius: 10px;
+  border-style: solid;
+  max-width: 220px;
+}
+
+#answer {
+  text-align: center;
+  font-size: 1.5rem;
+}
